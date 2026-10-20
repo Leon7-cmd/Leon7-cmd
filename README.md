@@ -26,11 +26,6 @@
 > All university course projects are archived in a dedicated organization:  
 > 👉 **[@Leon7-Unibo-Projects](https://github.com/Leon7-Unibo-Projects)**
 
-### Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### Git Bonsai
 
 [![grown with git-bonsai](https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f)](https://github.com/egorthinks/git-bonsai)
