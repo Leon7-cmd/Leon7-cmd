@@ -1,9 +1,6 @@
 <!-- General Stats Card (Clickable to Generator) -->
 [![GitHub Stats](https://gitcard-studio.creativecode.com.co/api/stats?username=Leon7-cmd&theme=dark&locale=en)](https://gitcard-studio.creativecode.com.co/)
 
-<!-- Profile Views Badge -->
-[![Profile Views](https://gitcard-studio.creativecode.com.co/api/badge?username=Leon7-cmd&type=views&color=38bdf8)](https://gitcard-studio.creativecode.com.co/)
-
 ### Languages & Core
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
